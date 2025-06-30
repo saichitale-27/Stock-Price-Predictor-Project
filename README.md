@@ -15,3 +15,5 @@ A simple Project that is Flask web app that predicts future stock prices based o
 - Do not enter negative days.
 - Make sure 'stock_prices.csv' is in the same folder.
 - 'stock_prices.csv' should contain data about the stock with two columns:'Date' (e.g., '2023-01-01') and 'Close' prices (e.g., '100').
+- 
+**Project is Live at** : https://stock-price-predictor-project-2.onrender.com/
