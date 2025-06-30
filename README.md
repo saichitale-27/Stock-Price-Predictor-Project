@@ -4,7 +4,7 @@ A simple Project that is Flask web app that predicts future stock prices based o
 **Features**
 - Input number of days ahead.
 - Get instant predicted price.
-- 
+  
 - **Setup**
 1. Install dependencies:
     pip install -r requirements.txt
